@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web development<br>👯 I’m looking to collaborate on front end projects<br>🤝 I’m looking for help with backend<br>🌱 I’m currently learning Node JS<br>💬 Reach me at sarasiddiquie1@gmail.com<br>⚡ Fun fact - I love connecting with people in my twitter <br>       comment section ✨Sar030902
+🔭 I’m currently working on web development<br>👯 I’m looking to collaborate on front end projects<br>🤝 I’m looking for help with backend<br>🌱 I’m currently learning more of Node JS<br>💬 Reach me at sarasiddiquie1@gmail.com<br>⚡ Fun fact - I love connecting with people in my twitter comment section <br>  
 
 
 ## 🌐 Socials:
